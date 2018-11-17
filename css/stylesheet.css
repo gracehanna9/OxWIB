@@ -1,0 +1,9 @@
+body{
+    font-family: fantasy;
+    background-color: pink;
+}
+/* used a class (.) */
+.main-heading{font-size: medium}
+/* used an ID (#) */
+#second-heading{font-size: small}
+/* if you have both a class and an ID, the ID takes precedence */
